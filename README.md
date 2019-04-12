@@ -1,5 +1,5 @@
 # Project Title: Guessing Game
 ## The number of lines of code in GuessingGame.sh is: 
-23
+29
 ## The date/time make ran:
-Thu Apr 11 03:52:17 PDT 2019
+Fri Apr 12 07:55:25 PDT 2019
