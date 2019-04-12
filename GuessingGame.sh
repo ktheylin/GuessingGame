@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # File: GuessingGame.sh
 
+function guess {
+
 num_of_files=`ls | wc -l`
 echo "number of files in this directory is: $num_of_files"
 
@@ -21,3 +23,7 @@ do
 done
 
 echo "Congratulations, you guess is correct!"
+
+}
+
+guess
